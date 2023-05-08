@@ -13,7 +13,6 @@
 
 ## 📚 Tech Stack
 
----
 
 ### platforms & Languages
 
@@ -31,6 +30,8 @@
   </div>
 
 <br />
+ 
+---
 
 ### Tools
 
@@ -40,6 +41,8 @@
   </div>
 
   <br />
+ 
+---
 
 ### Portfolio & SNS
 
